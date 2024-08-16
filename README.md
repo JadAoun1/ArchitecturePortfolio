@@ -11,7 +11,7 @@
 
 2. **Initialize npm in your project:**
    ```bash
-   cd path/to/your/kassirfolio
+   cd kassirfolio
    
    npm init -y
    ```
