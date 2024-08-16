@@ -33,5 +33,3 @@
 This project is licensed under the Apache License.
 
 ---
-
-Let me know if you need any further adjustments!
